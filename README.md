@@ -1,5 +1,3 @@
-# Outbound-Modpack
-Just an ordinary minecraft modpack, runs on fabric 1.20.1
 <img width="1024" height="282" alt="Outbound_Large" src="https://github.com/user-attachments/assets/de6b0b0c-ab39-42ce-9671-9191cd06bf2d" />
 
 This modpack isn't really meant to be published, rather made it to play with a large group of friends on a server.
