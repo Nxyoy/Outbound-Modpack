@@ -8,6 +8,14 @@ The modpack includes tons of biomes, custom terrain generation and more challeng
 This modpack uses Better combat, combat roll that makes combat different than vanilla combat.
 Enchantments have also been overhauled.
 
+# Progression overhaul
+
+Made changes to the progression, early to mid-game stages are now overhauled to be more difficult and time consuming to lenghten the default loop of the game.
+
+# Teamplay
+
+This modpack is meant for larger scale multiplayer, not singleplayer.
+
 # Note
 
-I don't own any of these mods in the modpack, i am not earning profit from this modpack.
+I don't own any of these mods in the modpack, i am not earning profit from this modpack. All of the mods can be found on modrinth, or curseforge.
